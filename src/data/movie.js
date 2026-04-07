@@ -1,0 +1,68 @@
+const movies = [
+  {
+    id: 1,
+    title: "Interstellar",
+    year: 2014,
+    genre: "Sci-Fi",
+    rating: 8.6,
+    image: "/interseller.jpg",
+  },
+  {
+    id: 2,
+    title: "The Dark Knight",
+    year: 2008,
+    genre: "Action",
+    rating: 9.0,
+    image: "dark.jpg",
+  },
+  {
+    id: 3,
+    title: "Inception",
+    year: 2010,
+    genre: "Sci-Fi",
+    rating: 8.8,
+    image: "inception.jpg",
+  },
+  {
+    id: 4,
+    title: "Titanic",
+    year: 1997,
+    genre: "Romance",
+    rating: 7.9,
+    image: "titnic.jpg",
+  },
+  {
+    id: 5,
+    title: "John Wick",
+    year: 2017,
+    genre: "Action-Thriller",
+    rating: 7.4,
+    image: "johnwick.jpg",
+  },
+    {
+    id: 6,
+    title: "Hangover",
+    year: 2009,
+    genre: "Comedy",
+    rating: 7.7,
+    image: "hangover.jpg",
+  },
+    {
+    id: 7,
+    title: "American Psyco",
+    year: 2000,
+    genre: "Comedy",
+    rating: 7.6,
+    image: "psyco.jpg",
+  },
+    {
+    id: 8,
+    title: "Dumb And Dumber ",
+    year: 1994,
+    genre: "Comedy",
+    rating: 7.3,
+    image: "dumb and dumber.jpg",
+  },
+];
+
+export default movies;
