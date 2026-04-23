@@ -1,5 +1,16 @@
-# Getting Started with Create React App
+# Portfolio Movie Explorer React
 
+## Live Demo
+(After deployment, I will add Vercel link here)
+
+## Project Description
+This is my React project created for assignment submission.
+
+## Tech Used
+- React
+- JavaScript
+- HTML
+- CSS
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
