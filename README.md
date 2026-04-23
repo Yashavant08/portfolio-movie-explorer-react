@@ -1,7 +1,7 @@
 # Portfolio Movie Explorer React
 
 ## Live Demo
-(After deployment, I will add Vercel link here)
+https://portfolio-movie-explorer-react-v4fu.vercel.app
 
 ## Project Description
 This is my React project created for assignment submission.
